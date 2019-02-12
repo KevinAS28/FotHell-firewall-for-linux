@@ -1,0 +1,33 @@
+html {
+text-color: rgb(0, 150, 255);
+background-color: black;
+
+}
+.judul {
+color: rgb(0, 150, 255);
+}
+#navigasi {
+width: 100%;
+text-align: center;
+}
+a {
+color: rgb(0, 150, 255);
+text-decoration: none;
+
+}
+a:hover {
+color: green;
+}
+.download {
+color: rgb(255, 0, 0);
+text-align: center;
+text-align: middle;
+}
+iframe{
+    border:none;
+    width:100%;
+    height: 500px;
+    display:block;
+    background-color: white;
+
+}

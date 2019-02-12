@@ -1,0 +1,38 @@
+body {background-color: rgb(0, 0, 100);
+border: 10px;
+}
+#login {
+text-align: center;
+}
+
+#error1 {
+color: white;
+}
+
+.subjudul {
+text-align: center;
+color: white;
+}
+
+.nama {
+color: green;
+size: 100%;
+width: 50%;
+font-size: x-large;
+font-weight: bold;
+background-color: black;
+
+
+}
+.pass {
+width: 50%;
+font-size: x-large;
+font-weight: bold;
+color: green;
+background-color: black;
+
+
+}
+
+
+

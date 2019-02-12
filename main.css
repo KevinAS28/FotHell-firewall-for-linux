@@ -1,0 +1,47 @@
+html {
+background-image: url("black-hole.jpg");
+position: fixed
+width: 100%
+height: 100%
+-webkit-background-size: cover;
+/*-moz-background-size: cover;*/
+/*-o-background-size: cover;*/
+background-size: cover;
+}
+
+.judul {
+color: rgb(0, 150, 255);
+}
+
+#navigasi {
+width: 100%;
+text-align: center;
+}
+
+a {
+color: rgb(0, 150, 255);
+text-decoration: none;
+
+}
+a:hover {
+color: green;
+}
+table {
+border: none;
+}
+iframe{
+    border:none;
+    width:200px;
+    height: 150px;
+    display:block;
+    background-color: white;
+}
+article {
+color: rgb(0, 150, 255);
+}
+.ip {
+color: white;
+}
+.ip-per {
+vertical-align: top;
+}

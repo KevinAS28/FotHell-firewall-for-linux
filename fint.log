@@ -1,0 +1,47 @@
+Log file for fint program
+Start at Mon Dec  4 19:47:30 2017 
+Mode = d 
+target directory = /root/programming/python_saya/forthell 
+Sentence to find = start at Sun Dec  3 20:25:13 2017 
+scanning /root/programming/python_saya/forthell/putih.jpg
+error while scanning /root/programming/python_saya/forthell/putih.jpg
+scanning /root/programming/python_saya/forthell/progress-granted.html
+scanning /root/programming/python_saya/forthell/main.css
+scanning /root/programming/python_saya/forthell/tes.css
+scanning /root/programming/python_saya/forthell/hell1.jpg
+error while scanning /root/programming/python_saya/forthell/hell1.jpg
+scanning /root/programming/python_saya/forthell/FortHell (copy).conf
+scanning /root/programming/python_saya/forthell/log_file.css
+scanning /root/programming/python_saya/forthell/FortHell.conf
+scanning /root/programming/python_saya/forthell/black-hole.jpg
+error while scanning /root/programming/python_saya/forthell/black-hole.jpg
+scanning /root/programming/python_saya/forthell/progress.css
+scanning /root/programming/python_saya/forthell/ForTHelL.log
+scanning /root/programming/python_saya/forthell/log_file.html
+scanning /root/programming/python_saya/forthell/run_command.html
+scanning /root/programming/python_saya/forthell/main.html
+scanning /root/programming/python_saya/forthell/text.txt
+scanning /root/programming/python_saya/forthell/loginnet.css
+scanning /root/programming/python_saya/forthell/denied.html
+scanning /root/programming/python_saya/forthell/tes.html
+scanning /root/programming/python_saya/forthell/login-firewall.css
+scanning /root/programming/python_saya/forthell/log_get
+scanning /root/programming/python_saya/forthell/fort.backup
+scanning /root/programming/python_saya/forthell/fint.log
+scanning /root/programming/python_saya/forthell/forthell-fail(maybe).py
+scanning /root/programming/python_saya/forthell/ddos.py
+scanning /root/programming/python_saya/forthell/ForTHelL.log.zip
+error while scanning /root/programming/python_saya/forthell/ForTHelL.log.zip
+scanning /root/programming/python_saya/forthell/loginnet.html
+scanning /root/programming/python_saya/forthell/ForTHelL.py
+scanning /root/programming/python_saya/forthell/forthell.py
+scanning /root/programming/python_saya/forthell/ForTHelL.logs
+scanning /root/programming/python_saya/forthell/login-firewall.html
+scanning /root/programming/python_saya/forthell/ip_permissions
+scanning /root/programming/python_saya/forthell/denied.css
+scanning /root/programming/python_saya/forthell/FortHell (another copy).conf
+scanning /root/programming/python_saya/forthell/ForTHelL.txt
+result:(finish)
+/root/programming/python_saya/forthell/ForTHelL.log
+/root/programming/python_saya/forthell/fint.log
+end at Mon Dec  4 19:47:30 2017
