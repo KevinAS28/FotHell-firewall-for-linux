@@ -1,9 +1,9 @@
-Tue Feb 12 17:33:56 2019
+Sat Mar  9 10:02:41 2019
 GET / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
@@ -12,11 +12,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:33:57 2019
+Sat Mar  9 10:02:42 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -26,11 +26,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:33:58 2019
+Sat Mar  9 10:02:42 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -40,12 +40,12 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:33:58 2019
+Sat Mar  9 10:02:42 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -55,11 +55,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:12 2019
+Sat Mar  9 10:02:42 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -69,30 +69,30 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:23 2019
+Sat Mar  9 10:04:17 2019
 POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-Content-Length: 55
+Content-Length: 54
 Cache-Control: max-age=0
 Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
 Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
-melarang-ip=192.168.88.22&submit-block-ip=Block+this+ip
+melarang-ip=192.168.43.1&submit-block-ip=Block+this+ip
 
 
-Tue Feb 12 17:34:24 2019
+Sat Mar  9 10:04:18 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -102,11 +102,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:24 2019
+Sat Mar  9 10:04:18 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -116,12 +116,12 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:24 2019
+Sat Mar  9 10:04:18 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -131,11 +131,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:24 2019
+Sat Mar  9 10:04:18 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -145,30 +145,30 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:35 2019
+Sat Mar  9 10:04:39 2019
 POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-Content-Length: 62
+Content-Length: 61
 Cache-Control: max-age=0
 Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
 Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
-membolehkan-ip=192.168.88.22&submit-unblock-ip=Unblock+this+ip
+membolehkan-ip=192.168.43.1&submit-unblock-ip=Unblock+this+ip
 
 
-Tue Feb 12 17:34:35 2019
+Sat Mar  9 10:04:39 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -178,11 +178,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:35 2019
+Sat Mar  9 10:04:39 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -192,12 +192,12 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:35 2019
+Sat Mar  9 10:04:39 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -207,11 +207,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:35 2019
+Sat Mar  9 10:04:39 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
@@ -221,89 +221,32 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:34:48 2019
-GET /run_command.html HTTP/1.1
+Sat Mar  9 10:05:02 2019
+POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:34:48 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/run_command.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:34:48 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:34:48 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/run_command.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:04 2019
-POST /run_command.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Content-Length: 62
+Content-Length: 54
 Cache-Control: max-age=0
 Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
 Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/run_command.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
-ex-command=zenity+--error+--text+%22are+you+fucking+sure%3F%22
+melarang-ip=192.168.43.1&submit-block-ip=Block+this+ip
 
 
-Tue Feb 12 17:35:07 2019
+Sat Mar  9 10:05:03 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/run_command.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -311,11 +254,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:35:07 2019
+Sat Mar  9 10:05:03 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -325,136 +268,14 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:35:07 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/run_command.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:25 2019
-GET / HTTP/1.1
-Host: 192.168.88.13
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-
-
-
-
-Tue Feb 12 17:35:26 2019
-GET /loginnet.css HTTP/1.1
-Host: 192.168.88.13
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-Accept: text/css,*/*;q=0.1
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://192.168.88.13/
-Connection: keep-alive
-
-
-
-
-Tue Feb 12 17:35:26 2019
-GET /favicon.ico HTTP/1.1
-Host: 192.168.88.13
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Connection: keep-alive
-
-
-
-
-Tue Feb 12 17:35:26 2019
-GET /hell1.jpg HTTP/1.1
-Host: 192.168.88.13
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-Accept: image/webp,*/*
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://192.168.88.13/loginnet.css
-Connection: keep-alive
-
-
-
-
-Tue Feb 12 17:35:26 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/run_command.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:33 2019
-GET /home.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/run_command.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:33 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/home.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:33 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:33 2019
+Sat Mar  9 10:05:03 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/home.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -462,13 +283,13 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:35:33 2019
+Sat Mar  9 10:05:03 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/home.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -476,58 +297,32 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:35:36 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/home.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:35:39 2019
+Sat Mar  9 10:06:08 2019
 POST / HTTP/1.1
-Host: 192.168.88.13
-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
-Accept-Language: en-US,en;q=0.5
-Accept-Encoding: gzip, deflate
-Referer: http://192.168.88.13/
+Host: 127.0.0.1
+Connection: keep-alive
+Content-Length: 49
+Cache-Control: max-age=0
+Origin: http://127.0.0.1
+Upgrade-Insecure-Requests: 1
 Content-Type: application/x-www-form-urlencoded
-Content-Length: 21
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-
-Username=aa&password=
-
-
-Tue Feb 12 17:56:05 2019
-GET /about.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/home.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
+membolehkan-ip=&submit-unblock-ip=Unblock+this+ip
 
 
-
-Tue Feb 12 17:56:05 2019
+Sat Mar  9 10:06:08 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -535,11 +330,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:05 2019
+Sat Mar  9 10:06:08 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -549,14 +344,14 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:05 2019
+Sat Mar  9 10:06:08 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -564,13 +359,13 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:05 2019
+Sat Mar  9 10:06:08 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -578,28 +373,32 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
-GET /about.html HTTP/1.1
+Sat Mar  9 10:06:16 2019
+POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
+Content-Length: 61
+Cache-Control: max-age=0
+Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
+membolehkan-ip=192.168.43.1&submit-unblock-ip=Unblock+this+ip
 
 
-
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:16 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -607,11 +406,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:16 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -621,14 +420,14 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:16 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -636,13 +435,13 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:16 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -650,28 +449,32 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
-GET /about.html HTTP/1.1
+Sat Mar  9 10:06:57 2019
+POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
+Content-Length: 54
+Cache-Control: max-age=0
+Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
+melarang-ip=192.168.43.1&submit-block-ip=Block+this+ip
 
 
-
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:57 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -679,11 +482,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:57 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -693,14 +496,14 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:57 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -708,13 +511,13 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:06:57 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -722,28 +525,32 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
-GET /about.html HTTP/1.1
+Sat Mar  9 10:07:15 2019
+POST / HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
+Content-Length: 61
+Cache-Control: max-age=0
+Origin: http://127.0.0.1
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
+membolehkan-ip=192.168.43.1&submit-unblock-ip=Unblock+this+ip
 
 
-
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:07:15 2019
 GET /main.css HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -751,11 +558,11 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:07:15 2019
 GET /black-hole.jpg HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
 Referer: http://127.0.0.1/main.css
 Accept-Encoding: gzip, deflate, br
@@ -765,14 +572,14 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:07:15 2019
 GET /ip_permissions.txt HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
 Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
@@ -780,301 +587,13 @@ Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
 
 
 
-Tue Feb 12 17:56:06 2019
+Sat Mar  9 10:07:15 2019
 GET /favicon.ico HTTP/1.1
 Host: 127.0.0.1
 Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:06 2019
-GET /about.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /ip_permissions.txt HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /about.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /ip_permissions.txt HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:07 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:09 2019
-GET /DDOS.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/about.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:09 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/DDOS.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:09 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:09 2019
-GET /ip_permissions.txt HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/DDOS.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:09 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/DDOS.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:11 2019
-GET /setting.html HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/DDOS.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:11 2019
-GET /main.css HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/css,*/*;q=0.1
-Referer: http://127.0.0.1/setting.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:11 2019
-GET /black-hole.jpg HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/main.css
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:11 2019
-GET /ip_permissions.txt HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-Upgrade-Insecure-Requests: 1
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
-Referer: http://127.0.0.1/setting.html
-Accept-Encoding: gzip, deflate, br
-Accept-Language: en-US,en;q=0.9
-Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
-
-
-
-
-Tue Feb 12 17:56:11 2019
-GET /favicon.ico HTTP/1.1
-Host: 127.0.0.1
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
-Accept: image/webp,image/apng,image/*,*/*;q=0.8
-Referer: http://127.0.0.1/setting.html
+Referer: http://127.0.0.1/
 Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 Cookie: JSESSIONID=873AC21FD64BFA70F7FE2B696E64942D
